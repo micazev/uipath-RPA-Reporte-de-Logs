@@ -1,0 +1,89 @@
+02/16/2021 17:38:11 - Início da automação reporte dos logs de pedidos
+02/16/2021 17:38:11 -  Matar os processos
+02/16/2021 17:38:11Extrair dashboard
+02/16/2021 17:38:13Verificar arquivos dentro de - C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats
+02/16/2021 17:38:13C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210212193004.csv
+02/16/2021 17:38:13Mover arquivo para pasta processadas
+02/16/2021 17:38:13Eliminar pasta da array e deletar
+02/16/2021 17:38:13C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210213083011.csv
+02/16/2021 17:38:13Mover arquivo para pasta processadas
+02/16/2021 17:38:13Eliminar pasta da array e deletar
+02/16/2021 17:38:13C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210213143007.csv
+02/16/2021 17:38:13Mover arquivo para pasta processadas
+02/16/2021 17:38:13Eliminar pasta da array e deletar
+02/16/2021 17:38:13C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210213193006.csv
+02/16/2021 17:38:13Mover arquivo para pasta processadas
+02/16/2021 17:38:13Eliminar pasta da array e deletar
+02/16/2021 17:38:13C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210214083006.csv
+02/16/2021 17:38:13Mover arquivo para pasta processadas
+02/16/2021 17:38:13Eliminar pasta da array e deletar
+02/16/2021 17:38:13C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210214143008.csv
+02/16/2021 17:38:13Mover arquivo para pasta processadas
+02/16/2021 17:38:13Eliminar pasta da array e deletar
+02/16/2021 17:38:13C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210214193005.csv
+02/16/2021 17:38:13Mover arquivo para pasta processadas
+02/16/2021 17:38:13Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210215083006.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210215143007.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-fail-20210212193006.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-fail-20210213083012.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-fail-20210213143007.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-fail-20210213193006.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-fail-20210214083007.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-fail-20210214143008.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-fail-20210214193006.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-fail-20210215083008.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-fail-20210215143008.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-received-20210203143000.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-received-20210212193000.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-received-20210213083011.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-received-20210213143006.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-received-20210213193006.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-received-20210214083004.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-received-20210214143006.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-received-20210214193004.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-received-20210215083003.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-received-20210215143007.csv
+02/16/2021 17:38:14Mover arquivo para pasta processadas
+02/16/2021 17:38:14Eliminar pasta da array e deletar
+02/16/2021 17:38:14atualizar a dashboard

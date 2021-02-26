@@ -1,0 +1,6 @@
+02/08/2021 10:33:10 - Início da automação reporte dos logs de pedidos
+02/08/2021 10:33:10 -  Matar os processos
+02/08/2021 10:33:10Extrair dashboard
+02/08/2021 10:33:12Verificar pastas dentro de - C:\Users\Samsung\Documents\UiPath\Reporte de Pedidos\CSV_LOG\stats\
+02/08/2021 10:33:12C:\Users\Samsung\Documents\UiPath\Reporte de Pedidos\CSV_LOG\stats\2021-02-04
+02/08/2021 10:33:12Mover arquivo para pasta lidos

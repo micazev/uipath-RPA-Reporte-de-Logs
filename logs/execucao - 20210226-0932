@@ -1,0 +1,8 @@
+02/26/2021 09:32:30 - Início da automação reporte dos logs de pedidos
+02/26/2021 09:32:31 -  Matar os processos
+02/26/2021 09:32:31Extrair dashboard
+02/26/2021 09:32:32Verificar arquivos dentro de - C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats
+02/26/2021 09:32:32C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210212193004.csv
+02/26/2021 09:32:37Mover arquivo para pasta processadas
+02/26/2021 09:32:37Eliminar pasta da array e deletar
+02/26/2021 09:32:37C:\Users\Samsung\Documents\RPA Reporte de Logs\CSV_LOG\stats\stats-csv_gen-20210213083011.csv
