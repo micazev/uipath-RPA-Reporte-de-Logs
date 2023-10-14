@@ -1,9 +1,25 @@
-* Inicializacao:
-  * A automação pega o caminho da pasta a ser processada no arquivo Config dentro da pasta da automação
-* Processamento:
-  * Inclui em uma array todos os arquivos que estiverem dentro da pasta indicada, menos os arquivos de nome “stats-full-orders-received-...”
-  * Extrai dos arquivos
-   * O nome dos arquivos contem o dia e horário de envio dos logs. A automação extrai esses valores via regex e insere essa informação na dashboard.  
-   * O nome do arquivo também contém o tipo de log: gen, fail e received, respectivamente total, falhos e concluídos. Essa informação é extraída via regex .
-* Finalizacao: 
-  * Alimenta o arquivo dashboard na pasta da automação e envia e-mail para o destinatário informado no arquivo Config em caso de logs de falhas.
+# Log Processing Automation
+
+This automation tool simplifies the process of handling log files by following a set of steps:
+
+## Initialization
+
+The automation tool reads the path of the folder to be processed from the `Config` file located within the automation folder.
+
+## Processing
+
+1. It compiles a list of all files found within the specified folder, excluding files with names starting with "stats-full-orders-received-..."
+
+## Data Extraction
+
+2. The filenames contain timestamps of when the logs were sent. The automation tool extracts these date and time values using regular expressions and inserts this information into the dashboard.
+
+3. The filenames also indicate the type of log (gen, fail, and received) corresponding to total, failed, and successful logs, respectively. This information is extracted using regular expressions.
+
+## Finalization
+
+4. The automation tool updates the dashboard file within the automation folder.
+
+5. In case of failed logs, it sends an email to the recipient specified in the `Config` file.
+
+With this tool, you can streamline the process of processing log files, extracting essential information, and maintaining an up-to-date dashboard.
